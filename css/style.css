@@ -1,0 +1,57 @@
+div {border: 2px solid #ffa700;
+  background-color :#ffa700; }
+
+header {
+  background-color: white;
+  color: #d62d20;
+  margin:20px, 20px;
+  border: 4px solid black;
+  font-size: 4em;
+  text-align: center;
+  padding: 10px;
+font-family: 'Asap Condensed', sans-serif;}
+
+p {font-size: 24px;}
+main {
+  color: white;
+  font-size: 72px;
+  font-family: Monospace,Tahoma,Verdana;
+  text-align: center;
+  margin:20px, 20px;
+  padding: 10px;
+}
+section {font-size: 22px; 
+ margin:20px, 20px;
+  padding: 10px;}
+
+h2 {font-size: 36px;
+text-align: center;
+ margin:10px, 10px;
+  padding: 10px;}
+
+nav ul{
+  list-style-type: none;
+  text-align: center;
+  padding: 15px;
+}
+nav ul li {display: inline-block;
+padding: 60px; 
+  border: 1px solid pink
+
+}
+nav ul li a {
+  text-decoration: none;
+ font-family: 'Asap Condensed', sans-serif;
+  font-size: 1.3em;
+  padding: 60px;
+}
+nav ul li a:hover {background-color: white;
+color:black;
+}
+
+footer {
+  color: white;
+  text-align: center;
+  padding: 100px 0;
+  font-family: Verdana, Tahoma, Times Roman;
+}
